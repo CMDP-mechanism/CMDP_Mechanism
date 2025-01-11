@@ -16,7 +16,7 @@ Key features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/CMDP-Deep-Learning.git
+git clone https://github.com/CMDP-mechanism/CMDP_Mechanism.git
 cd CMDP-Deep-Learning
 ```
 
