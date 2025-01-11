@@ -17,7 +17,7 @@ Key features:
 1. Clone the repository:
 ```bash
 git clone https://github.com/CMDP-mechanism/CMDP_Mechanism.git
-cd CMDP-Deep-Learning
+cd CMDP_Mechanism
 ```
 
 2. Install the required dependencies:
